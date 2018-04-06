@@ -20,7 +20,7 @@ hr {
 }
 
 header.startup {
-  background-position: center;
+  background-position: center center;
   background-image: url("media/science_technology.jpg");
   background-size: cover;
   height: 100%;
