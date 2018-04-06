@@ -32,7 +32,7 @@ header.startup hr {
 }
 
 header.startup h1 {
-  font-size: 2rem; 
+  font-size: 3rem; 
 }
 
 .btn {
@@ -47,12 +47,12 @@ header.startup h1 {
 }
 
 .btn-primary {
-  background-color: #F05F44;
-  border-color: #F05F44; }
+  background-color: #333333;
+  border-color: #333333; }
 
 .btn-primary:hover {
-  background-color: #ee4b08;
-  border-color: #ee4b08;
+  background-color: #d5d2ca;
+  border-color: #d5d2ca;
   border-width: 5px;
   cursor: pointer;
 }
